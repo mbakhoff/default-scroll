@@ -11,7 +11,7 @@ The extension works by blocking event listeners on the following events:
 * dommousescroll 
 * wheel
 
-Install the extension from [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/).
+Install the extension from [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/default-scroll/).
 
 Extension icon and toolbar button icon are from Google's [Material Design Icons](https://github.com/google/material-design-icons/blob/a288bd9ffc0667026b8d156a06563cda803ed0a8/hardware/svg/production/ic_mouse_48px.svg) (Apache License Version 2.0).
 
